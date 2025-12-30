@@ -1,0 +1,5 @@
+DB_HOST=localhost
+DB_USER=postgres
+DB_PASSWORD=Gamigio2500
+DB_NAME=pruebaTecnica
+DB_PORT=5432
